@@ -1,0 +1,17 @@
+{
+	"name": "PHP7.3",
+
+	"dockerComposeFile": [
+		"docker-compose.yml"
+    ],
+
+    "service": "workspace",
+    "workspaceFolder": "/var/www",
+    "remoteUser": "vscode",
+
+	"settings": {
+		"terminal.integrated.shell.linux": null
+    },
+
+	"extensions": []
+}
